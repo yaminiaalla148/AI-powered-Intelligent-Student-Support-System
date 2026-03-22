@@ -29,13 +29,13 @@ uvicorn app.main:app --reload
 
 | Feature | Description | Status |
 |---------|-------------|--------|
-| ✅ Student Authentication | JWT-based login system | Mocked (demo users) |
-| ✅ Submit Queries | Natural language questions | Working |
-| ✅ AI Response | Intent classification + response | Rule-based (mocked) |
-| ✅ Unified Student Data | Aggregated from multiple systems | Mocked (ESB pattern) |
-| ✅ Query Logging | Track all interactions | In-memory |
-| ✅ Admin Analytics | View metrics and KPIs | Working |
-| ✅ ESB Integration | Enterprise service bus demo | Simulated |
+| - Student Authentication | JWT-based login system | Mocked (demo users) |
+| - Submit Queries | Natural language questions | Working |
+| - AI Response | Intent classification + response | Rule-based (mocked) |
+| - Unified Student Data | Aggregated from multiple systems | Mocked (ESB pattern) |
+| - Query Logging | Track all interactions | In-memory |
+| - Admin Analytics | View metrics and KPIs | Working |
+| - ESB Integration | Enterprise service bus demo | Simulated |
 
 ---
 
