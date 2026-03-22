@@ -103,11 +103,11 @@ student-support-system/
 | **Analytics** | In-memory logging | Azure Event Hubs + Power BI |
 
 **Why Mock?**
-- ✅ No API keys required
-- ✅ Zero cost for demo
-- ✅ Instant setup
-- ✅ Predictable behavior for presentation
-- ✅ Focus on architecture, not external services
+-  No API keys required
+-  Zero cost for demo
+-  Instant setup
+-  Predictable behavior for presentation
+-  Focus on architecture, not external services
 
 ---
 
