@@ -291,10 +291,10 @@ docker run -p 8000:8000 uniassist-pro
 
 
 
-✅ Hybrid cloud with ESB is industry standard  
-✅ **Feasibility** - Runs locally in 30 seconds, production-ready patterns  
-✅ **Clean Explanation** - Every file has architecture comments  
-✅ **Low Risk** - No external APIs, no secrets, no complex setup  
-✅ **High Clarity** - Clear separation of concerns, documented flows
+- Hybrid cloud with ESB is industry standard  
+- **Feasibility** - Runs locally in 30 seconds, production-ready patterns  
+- **Clean Explanation** - Every file has architecture comments  
+- **Low Risk** - No external APIs, no secrets, no complex setup  
+- **High Clarity** - Clear separation of concerns, documented flows
 
 ---
