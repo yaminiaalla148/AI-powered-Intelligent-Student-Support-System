@@ -1,12 +1,12 @@
 # UniAssist Pro - AI-Powered Student Support System
 
-## 🎓 DBIM MVP Implementation
+##  DBIM MVP Implementation
 
 An intelligent student support chatbot demonstrating enterprise-grade architecture for a hackathon MVP.
 
 ---
 
-## 📋 Quick Start (30 seconds)
+##  Quick Start (30 seconds)
 
 ```bash
 # 1. Install dependencies
@@ -25,7 +25,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🎯 What This MVP Does
+##  What This MVP Does
 
 | Feature | Description | Status |
 |---------|-------------|--------|
@@ -39,7 +39,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 🏗️ Architecture Overview
+##  Architecture Overview
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -69,7 +69,7 @@ uvicorn app.main:app --reload
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 student-support-system/
@@ -92,7 +92,7 @@ student-support-system/
 
 ---
 
-## 🔍 What is Mocked (and Why)
+##  What is Mocked (and Why)
 
 | Component | MVP Implementation | Production Implementation |
 |-----------|-------------------|---------------------------|
@@ -111,7 +111,7 @@ student-support-system/
 
 ---
 
-## 🚀 How It Scales to Enterprise
+##  How It Scales to Enterprise
 
 ### Horizontal Scaling
 ```
@@ -140,7 +140,7 @@ Systems         Warehouse
 
 ---
 
-## 🔌 ESB (Enterprise Service Bus) Explained
+##  ESB (Enterprise Service Bus) Explained
 
 The ESB decouples cloud services from on-premise legacy systems:
 
@@ -165,7 +165,7 @@ Student asks: "When is my financial aid disbursement?"
 
 ---
 
-## ☁️ Hybrid Infrastructure
+##  Hybrid Infrastructure
 
 ### Cloud Components (Azure/AWS)
 - API Gateway & Load Balancers
@@ -189,7 +189,7 @@ Student asks: "When is my financial aid disbursement?"
 
 ---
 
-## 📊 API Endpoints
+##  API Endpoints
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
@@ -205,7 +205,7 @@ Student asks: "When is my financial aid disbursement?"
 
 ---
 
-## 🧪 Test the MVP
+##  Test the MVP
 
 ### 1. Login
 ```bash
@@ -229,7 +229,7 @@ curl "http://localhost:8000/api/analytics" \
 
 ---
 
-## 🎤 DBIM Presentation Points
+##  DBIM Presentation Points
 
 ### 1. Business Problem
 > "Students spend 15+ minutes per query navigating multiple systems. This costs universities $25 per human-handled inquiry."
@@ -248,7 +248,7 @@ curl "http://localhost:8000/api/analytics" \
 
 ---
 
-## 📝 Running with Docker (Optional)
+##  Running with Docker (Optional)
 
 ```bash
 # Build image
@@ -262,7 +262,7 @@ docker run -p 8000:8000 uniassist-pro
 
 ---
 
-## 👥 Demo Users
+##  Demo Users
 
 | Username | Password | Role | Student ID |
 |----------|----------|------|------------|
@@ -273,7 +273,7 @@ docker run -p 8000:8000 uniassist-pro
 
 ---
 
-## ⚡ Quick Demo Script
+##  Quick Demo Script
 
 1. **Open** http://localhost:8000/docs
 2. **Click** "Authorize" → Enter demo credentials
